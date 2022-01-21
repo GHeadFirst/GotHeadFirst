@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GotHeadFirst but I go by Head
+- 👋 Hi, I’m @HeadFirst but I go by Head
 - 👀 I’m interested in programming, medicine, privacy and other fun stuff
 - 🌱 I’m currently learning full stack development and working on improving my Javascript
 - 💞️ I’m looking to collaborate on software related to encryption and other crypto software
